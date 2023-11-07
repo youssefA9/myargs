@@ -11,7 +11,7 @@
         stage ('Build test Docker') {
             steps {
                 script {
-				bat 'docker build -t jmeter-docker ./'
+				bat 'docker build -t testdocker ./'
 				
                      }
             }
