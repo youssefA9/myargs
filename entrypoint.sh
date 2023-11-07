@@ -1,3 +1,4 @@
+#!/bin/sh
 SMOKE_RESULTS="result.csv"
 LOG_FILE="log.log"
 	jmeter -n -t $jmeter_Script \
