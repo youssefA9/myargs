@@ -5,9 +5,7 @@
 		stages {
 			stage('Clone repo') {
 				steps {
-                    script{
-                currentBuild.displayName = "#" + params.fileName
-                }
+                    
                 git branch: 'main', credentialsId: 'CI_bitbucket_with_password', url: 'https://github.com/youssefA9/myargs.git'
             }
         }
@@ -28,6 +26,8 @@
         stage ('Run Jmeter Docker') {
             steps {
 				 script{
+                currentBuild.displayName = "#" + params.fileName
+                
                  bat 'docker run -t -v D:\\Courses\\DevOps\\myargs\\results:/data testdocker %fileName%' 
                 
 				 }
