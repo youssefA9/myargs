@@ -1,7 +1,7 @@
- parallel  MainThread{
+ pipeline {
 
      agent any
-		
+		parallel{
 		stages {
 			stage('Clone repo') {
 				steps {
@@ -25,13 +25,16 @@
 				}
 			}
         }
-		
-		}
-	}, ParallelThread {
-        stage('parallelism'){
-        steps {
+        }
+
+        stages {
+            stage ('Parallel') {
+            steps {
 				sleep time: 2500, unit: 'MILLISECONDS'
                 echo 'This is Parallelism'
 			}
         }
-    }
+
+        }
+		}
+	}
