@@ -24,11 +24,11 @@
       parallel {
         stage ('Run Jmeter Docker') {
             steps {
-				// script{
-                // bat 'docker run -t -v D:\\Courses\\DevOps\\myargs\\results:/data testdocker %fileName%' 
+				 script{
+                 bat 'docker run -t -v D:\\Courses\\DevOps\\myargs\\results:/data testdocker %fileName%' 
                 
-				// }
-                echo 'hello'
+				 }
+                
 			}
         }
       
@@ -46,6 +46,9 @@
       //bat 'docker system prune --all -f'
       cleanWs()
       deleteDir()
+      dir("${env.WORKSPACE}@tmp") {
+            deleteDir()
+        }
       bat 'dir'
     }
   }	
