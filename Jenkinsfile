@@ -24,10 +24,11 @@
       parallel {
         stage ('Run Jmeter Docker') {
             steps {
-				script{
-                //bat 'docker run -t -v D:\\Courses\\DevOps\\myargs\\results:/data testdocker %fileName%' 
+				// script{
+                // bat 'docker run -t -v D:\\Courses\\DevOps\\myargs\\results:/data testdocker %fileName%' 
                 
-				}
+				// }
+                echo 'hello'
 			}
         }
       
