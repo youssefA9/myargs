@@ -20,7 +20,7 @@
             }
         }
         
-            
+            stage('Entry Stage'){
       parallel firstBranch:{
         stage ('Run Jmeter Docker') {
             steps {
@@ -43,3 +43,4 @@
     
 
 
+ }
