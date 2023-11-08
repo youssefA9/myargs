@@ -19,7 +19,7 @@
                      }
             }
         }
-      parallel{
+      parallel firstBranch:{
         stage ('Run Jmeter Docker') {
             steps {
 				script{
@@ -28,7 +28,7 @@
 				}
 			}
         }
-
+      }, secondBranch:{
 stage ('parallel'){
     steps{
         sleep time: 2500, unit: 'MILLISECONDS'
