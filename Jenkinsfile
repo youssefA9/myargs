@@ -5,6 +5,9 @@
 		stages {
 			stage('Clone repo') {
 				steps {
+                    script{
+                currentBuild.displayName = "#" + params.fileName
+                }
                 git branch: 'main', credentialsId: 'CI_bitbucket_with_password', url: 'https://github.com/youssefA9/myargs.git'
             }
         }
