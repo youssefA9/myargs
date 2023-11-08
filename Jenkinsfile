@@ -1,4 +1,4 @@
- parallel  Main Thread{
+ parallel  MainThread{
 
      agent any
 		
@@ -27,7 +27,7 @@
         }
 		
 		}
-	}, Parallel Thread {
+	}, ParallelThread {
         stage('parallelism'){
         steps {
 				sleep time: 2500, unit: 'MILLISECONDS'
