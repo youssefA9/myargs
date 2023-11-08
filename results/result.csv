@@ -2397,3 +2397,1023 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1699435540338,707,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6137,1725,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,242,0,0
 1699435540338,242,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,863,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,242,0,0
 1699435540580,465,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4478,862,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,465,0,0
+1699435972153,2328,open Web Page,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-5,,true,,106317,1495,2,2,null,0,255,1038
+1699435972352,1564,open Web Page-9,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4586,769,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1561,0,1038
+1699435973965,764,open Web Page-10,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,101731,726,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,523,0,0
+1699435974120,1664,open Web Page,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-4,,true,,106333,1495,2,2,null,0,18,444
+1699435974132,818,open Web Page-9,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4594,769,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,817,0,444
+1699435974955,846,open Web Page-10,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,101739,726,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,610,0,0
+1699435976119,1489,open Web Page,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-3,,true,,106330,1495,3,3,null,0,16,421
+1699435976130,713,open Web Page-9,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4599,769,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,713,0,421
+1699435976847,776,open Web Page-10,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,101731,726,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,540,0,0
+1699435978118,1287,open Web Page,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-2,,true,,106327,1495,4,4,null,0,10,420
+1699435978120,708,open Web Page-9,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4588,769,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,707,0,420
+1699435978832,579,open Web Page-10,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,101739,726,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,381,0,0
+1699435980117,1449,open Web Page,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,106328,1495,5,5,null,0,13,398
+1699435980122,675,open Web Page-9,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4589,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,675,0,398
+1699435980799,774,open Web Page-10,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,101739,726,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,524,0,0
+1699435975777,8102,login,401,"Number of samples in transaction : 19, number of failing samples : 7",jp@gc - Ultimate Thread Group 1-5,,false,,214732,21737,5,5,null,0,59,0
+1699435975779,676,login-11,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6272,2134,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,387,0,0
+1699435975779,387,login-11-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,1171,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,387,0,0
+1699435976174,281,login-11-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4613,963,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,281,0,0
+1699435976466,724,login-13,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6135,1731,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,321,0,0
+1699435976466,321,login-13-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,868,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,321,0,0
+1699435976788,402,login-13-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4476,863,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,402,0,0
+1699435977193,711,login-16,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,101739,731,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,390,0,0
+1699435977912,218,login-17,200,OK,jp@gc - Ultimate Thread Group 1-5,,true,,27385,751,4,4,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,207,0,0
+1699435978132,212,login-18,200,OK,jp@gc - Ultimate Thread Group 1-5,,true,,27873,754,4,4,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,211,0,0
+1699435978350,248,login-19,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,834,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=3&currentDate=2023-11-08&currentTime=09%3A32,248,0,0
+1699435978601,243,login-20,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,761,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,243,0,0
+1699435978846,217,login-21,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,776,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,217,0,0
+1699435979067,235,login-22,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,750,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,234,0,0
+1699435979303,243,login-24,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,784,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2023-05-25,243,0,0
+1699435979548,585,login-25,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6139,1519,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,304,0,0
+1699435979548,304,login-25-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,802,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,304,0,0
+1699435979853,280,login-25-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4480,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,280,0,0
+1699435980134,231,login-26,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,231,0,0
+1699435980371,247,login-27,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,771,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,247,0,0
+1699435980620,547,login-29,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6152,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,251,0,0
+1699435980620,251,login-29-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/15,251,0,0
+1699435980871,296,login-29-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4493,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,295,0,0
+1699435981168,542,login-31,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6156,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,262,0,0
+1699435981168,262,login-31-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,262,0,0
+1699435981433,277,login-31-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4497,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,277,0,0
+1699435981711,553,login-34,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6139,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,254,0,0
+1699435981711,254,login-34-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2,254,0,0
+1699435981966,298,login-34-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4480,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,298,0,0
+1699435982266,559,login-33,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6148,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,263,0,0
+1699435982266,263,login-33-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/12,263,0,0
+1699435982530,295,login-33-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4489,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,295,0,0
+1699435982826,540,login-36,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6141,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,250,0,0
+1699435982826,250,login-36-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,250,0,0
+1699435983076,290,login-36-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4482,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,290,0,0
+1699435983367,571,login-35,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6157,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,251,0,0
+1699435983367,251,login-35-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11,251,0,0
+1699435983619,319,login-35-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4498,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,319,0,0
+1699435976803,8006,login,401,"Number of samples in transaction : 19, number of failing samples : 7",jp@gc - Ultimate Thread Group 1-4,,false,,214721,21745,5,5,null,0,33,0
+1699435976804,700,login-11,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6265,2142,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,386,0,0
+1699435976804,386,login-11-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,1179,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,386,0,0
+1699435977191,313,login-11-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4606,963,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,313,0,0
+1699435977506,571,login-13,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6146,1731,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,291,0,0
+1699435977506,292,login-13-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,868,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,291,0,0
+1699435977798,279,login-13-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4487,863,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,279,0,0
+1699435978079,639,login-16,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,101739,731,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,371,0,0
+1699435978720,192,login-17,200,OK,jp@gc - Ultimate Thread Group 1-4,,true,,27385,751,4,4,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,191,0,0
+1699435978914,153,login-18,200,OK,jp@gc - Ultimate Thread Group 1-4,,true,,27873,754,4,4,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,150,0,0
+1699435979069,252,login-19,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,834,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=3&currentDate=2023-11-08&currentTime=09%3A32,252,0,0
+1699435979323,226,login-20,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,761,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,226,0,0
+1699435979550,302,login-21,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,776,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,302,0,0
+1699435979853,237,login-22,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,750,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,237,0,0
+1699435980093,234,login-24,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,784,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2023-05-25,234,0,0
+1699435980328,525,login-25,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6151,1519,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,232,0,0
+1699435980328,232,login-25-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,802,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,232,0,0
+1699435980561,292,login-25-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4492,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,292,0,0
+1699435980856,273,login-26,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,273,0,0
+1699435981130,260,login-27,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,771,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,259,0,0
+1699435981391,523,login-29,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6153,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,245,0,0
+1699435981391,245,login-29-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/15,245,0,0
+1699435981637,277,login-29-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4494,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,277,0,0
+1699435981915,621,login-31,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6129,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,246,0,0
+1699435981915,246,login-31-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,246,0,0
+1699435982162,374,login-31-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4470,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,374,0,0
+1699435982538,543,login-34,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6159,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,242,0,0
+1699435982538,243,login-34-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2,242,0,0
+1699435982781,300,login-34-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4500,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,300,0,0
+1699435983082,547,login-33,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6128,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,252,0,0
+1699435983082,252,login-33-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/12,252,0,0
+1699435983334,295,login-33-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4469,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,295,0,0
+1699435983631,614,login-36,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6142,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,311,0,0
+1699435983631,311,login-36-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,311,0,0
+1699435983943,302,login-36-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4483,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,302,0,0
+1699435984247,594,login-35,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6155,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,253,0,0
+1699435984247,253,login-35-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11,253,0,0
+1699435984501,340,login-35-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4496,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,340,0,0
+1699435978634,7886,login,401,"Number of samples in transaction : 19, number of failing samples : 7",jp@gc - Ultimate Thread Group 1-3,,false,,214675,21750,5,5,null,0,33,0
+1699435978636,513,login-11,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6265,2147,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,248,0,0
+1699435978636,248,login-11-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,1184,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,248,0,0
+1699435978885,264,login-11-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4606,963,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,264,0,0
+1699435979150,709,login-13,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6130,1731,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,416,0,0
+1699435979150,416,login-13-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,868,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,416,0,0
+1699435979566,293,login-13-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4471,863,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,292,0,0
+1699435979861,633,login-16,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,101731,731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,370,0,0
+1699435980496,196,login-17,200,OK,jp@gc - Ultimate Thread Group 1-3,,true,,27385,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,194,0,0
+1699435980694,210,login-18,200,OK,jp@gc - Ultimate Thread Group 1-3,,true,,27873,754,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,208,0,0
+1699435980905,262,login-19,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,834,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=3&currentDate=2023-11-08&currentTime=09%3A32,262,0,0
+1699435981167,259,login-20,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,761,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,259,0,0
+1699435981428,242,login-21,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,776,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,242,0,0
+1699435981672,239,login-22,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,750,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,239,0,0
+1699435981912,243,login-24,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,784,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2023-05-25,243,0,0
+1699435982156,606,login-25,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6135,1519,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,326,0,0
+1699435982156,327,login-25-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,802,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,326,0,0
+1699435982484,278,login-25-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4476,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,278,0,0
+1699435982763,252,login-26,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,252,0,0
+1699435983017,243,login-27,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,771,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,243,0,0
+1699435983261,567,login-29,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6145,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,240,0,0
+1699435983261,240,login-29-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/15,240,0,0
+1699435983502,326,login-29-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4486,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,326,0,0
+1699435983836,592,login-31,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6138,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,258,0,0
+1699435983836,258,login-31-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,258,0,0
+1699435984094,334,login-31-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4479,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,333,0,0
+1699435984429,559,login-34,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6146,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,284,0,0
+1699435984429,284,login-34-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2,284,0,0
+1699435984714,274,login-34-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4487,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,274,0,0
+1699435984990,508,login-33,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6150,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,235,0,0
+1699435984990,235,login-33-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/12,235,0,0
+1699435985226,272,login-33-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4491,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,272,0,0
+1699435985499,486,login-36,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6135,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,228,0,0
+1699435985499,228,login-36-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,228,0,0
+1699435985728,257,login-36-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4476,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,257,0,0
+1699435985986,567,login-35,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6146,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,225,0,0
+1699435985986,225,login-35-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11,225,0,0
+1699435986211,342,login-35-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4487,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,342,0,0
+1699435980419,8271,login,401,"Number of samples in transaction : 19, number of failing samples : 7",jp@gc - Ultimate Thread Group 1-2,,false,,214703,21739,5,5,null,0,29,0
+1699435980420,581,login-11,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6266,2136,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,250,0,0
+1699435980420,250,login-11-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,1173,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,250,0,0
+1699435980671,330,login-11-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4607,963,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,330,0,0
+1699435981006,541,login-13,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6153,1731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,264,0,0
+1699435981006,264,login-13-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,868,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,264,0,0
+1699435981271,276,login-13-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4494,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,276,0,0
+1699435981548,672,login-16,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,101731,731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,373,0,0
+1699435982221,231,login-17,200,OK,jp@gc - Ultimate Thread Group 1-2,,true,,27385,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,230,0,0
+1699435982452,195,login-18,200,OK,jp@gc - Ultimate Thread Group 1-2,,true,,27873,754,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,192,0,0
+1699435982649,294,login-19,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,834,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=3&currentDate=2023-11-08&currentTime=09%3A32,294,0,0
+1699435982944,240,login-20,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,761,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,240,0,0
+1699435983185,265,login-21,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,776,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,265,0,0
+1699435983454,253,login-22,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,750,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,253,0,0
+1699435983709,262,login-24,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,784,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2023-05-25,262,0,0
+1699435983972,572,login-25,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6141,1519,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,267,0,0
+1699435983972,268,login-25-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,802,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,267,0,0
+1699435984240,304,login-25-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4482,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,304,0,0
+1699435984545,271,login-26,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,271,0,0
+1699435984817,220,login-27,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,771,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,219,0,0
+1699435985037,574,login-29,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6135,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,307,0,0
+1699435985037,307,login-29-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/15,307,0,0
+1699435985345,266,login-29-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4476,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,266,0,0
+1699435985613,495,login-31,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6133,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,225,0,0
+1699435985613,225,login-31-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,225,0,0
+1699435985839,269,login-31-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4474,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,269,0,0
+1699435986109,460,login-34,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6147,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,211,0,0
+1699435986109,211,login-34-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2,211,0,0
+1699435986320,249,login-34-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4488,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,249,0,0
+1699435986570,656,login-33,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6155,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,266,0,0
+1699435986570,267,login-33-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/12,266,0,0
+1699435986837,389,login-33-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4496,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,389,0,0
+1699435987227,874,login-36,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6133,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,361,0,0
+1699435987227,361,login-36-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,361,0,0
+1699435987588,513,login-36-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4474,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,513,0,0
+1699435988103,615,login-35,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6155,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,370,0,0
+1699435988103,370,login-35-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11,370,0,0
+1699435988474,244,login-35-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4496,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,244,0,0
+1699435984954,4361,click My Info,401,"Number of samples in transaction : 13, number of failing samples : 9",jp@gc - Ultimate Thread Group 1-5,,false,,123115,12452,5,5,null,0,12,0
+1699435984955,481,click My Info-39,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6129,1691,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,228,0,0
+1699435984955,228,click My Info-39-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,849,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,228,0,0
+1699435985183,253,click My Info-39-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4470,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,253,0,0
+1699435985436,500,click My Info-42,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6143,1709,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,241,0,0
+1699435985436,241,click My Info-42-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,241,0,0
+1699435985677,259,click My Info-42-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4484,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,259,0,0
+1699435985937,610,click My Info-44,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,101739,751,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,320,0,0
+1699435986548,678,click My Info-45,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6152,1489,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,268,0,0
+1699435986548,268,click My Info-45-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,268,0,0
+1699435986816,410,click My Info-45-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4493,737,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,410,0,0
+1699435987227,306,click My Info-48,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,306,0,0
+1699435987534,305,click My Info-46,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,715,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7,305,0,0
+1699435987841,204,click My Info-49,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,807,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/custom-fields?screen=personal,204,0,0
+1699435988046,207,click My Info-47,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,794,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,207,0,0
+1699435988254,212,click My Info-50,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,823,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/screen/personal/attachments?limit=50&offset=0,212,0,0
+1699435988467,213,click My Info-52,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,213,0,0
+1699435988680,239,click My Info-53,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,239,0,0
+1699435988920,208,click My Info-54,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,713,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,208,0,0
+1699435989129,198,click My Info-55,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,197,0,0
+1699435990329,219,Save,401,"Number of samples in transaction : 1, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-5,,false,,328,1188,5,5,null,0,2,0
+1699435990330,219,Save-59,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,1188,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,219,0,0
+1699435982582,8123,login,401,"Number of samples in transaction : 19, number of failing samples : 7",jp@gc - Ultimate Thread Group 1-1,,false,,214717,21740,5,5,null,0,23,0
+1699435982583,619,login-11,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6265,2137,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,325,0,0
+1699435982583,325,login-11-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,1174,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,325,0,0
+1699435982909,293,login-11-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4606,963,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,293,0,0
+1699435983203,544,login-13,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6136,1731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,244,0,0
+1699435983203,244,login-13-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,868,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,244,0,0
+1699435983447,300,login-13-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4477,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,300,0,0
+1699435983748,717,login-16,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,101739,731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,409,0,0
+1699435984468,233,login-17,200,OK,jp@gc - Ultimate Thread Group 1-1,,true,,27385,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,230,0,0
+1699435984702,232,login-18,200,OK,jp@gc - Ultimate Thread Group 1-1,,true,,27873,754,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,231,0,0
+1699435984936,226,login-19,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,834,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=3&currentDate=2023-11-08&currentTime=09%3A32,226,0,0
+1699435985163,217,login-20,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,761,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,216,0,0
+1699435985381,242,login-21,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,776,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,242,0,0
+1699435985624,227,login-22,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,750,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,227,0,0
+1699435985852,222,login-24,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,784,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2023-05-25,222,0,0
+1699435986075,472,login-25,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6129,1519,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,221,0,0
+1699435986075,221,login-25-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,802,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,221,0,0
+1699435986297,250,login-25-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4470,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,249,0,0
+1699435986548,281,login-26,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,281,0,0
+1699435986830,395,login-27,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,771,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,395,0,0
+1699435987226,960,login-29,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6146,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,357,0,0
+1699435987226,357,login-29-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/15,357,0,0
+1699435987584,602,login-29-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4487,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,602,0,0
+1699435988187,540,login-31,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6154,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,296,0,0
+1699435988187,296,login-31-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,296,0,0
+1699435988484,243,login-31-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4495,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,243,0,0
+1699435988729,486,login-34,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6153,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,259,0,0
+1699435988729,259,login-34-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2,259,0,0
+1699435988989,226,login-34-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4494,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,226,0,0
+1699435989216,540,login-33,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6154,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,284,0,0
+1699435989216,284,login-33-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/12,284,0,0
+1699435989500,256,login-33-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4495,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,256,0,0
+1699435989757,463,login-36,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6142,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,217,0,0
+1699435989757,217,login-36-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,217,0,0
+1699435989974,246,login-36-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4483,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,246,0,0
+1699435990220,507,login-35,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6145,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,238,0,0
+1699435990220,238,login-35-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11,238,0,0
+1699435990458,269,login-35-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4486,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,269,0,0
+1699435985847,5204,click My Info,401,"Number of samples in transaction : 13, number of failing samples : 9",jp@gc - Ultimate Thread Group 1-4,,false,,123146,12452,5,5,null,0,15,0
+1699435985848,522,click My Info-39,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6152,1691,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,235,0,0
+1699435985848,235,click My Info-39-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,849,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,235,0,0
+1699435986083,287,click My Info-39-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4493,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,287,0,0
+1699435986371,484,click My Info-42,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6152,1709,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,217,0,0
+1699435986371,217,click My Info-42-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,217,0,0
+1699435986589,266,click My Info-42-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4493,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,266,0,0
+1699435986856,1697,click My Info-44,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,101731,751,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,679,0,0
+1699435988555,514,click My Info-45,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6159,1489,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,210,0,0
+1699435988555,210,click My Info-45-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,210,0,0
+1699435988766,303,click My Info-45-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4500,737,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,303,0,0
+1699435989071,185,click My Info-48,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,185,0,0
+1699435989256,199,click My Info-46,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,715,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7,199,0,0
+1699435989456,201,click My Info-49,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,807,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/custom-fields?screen=personal,201,0,0
+1699435989658,220,click My Info-47,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,794,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,220,0,0
+1699435989879,212,click My Info-50,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,823,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/screen/personal/attachments?limit=50&offset=0,212,0,0
+1699435990093,271,click My Info-52,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,271,0,0
+1699435990365,217,click My Info-53,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,217,0,0
+1699435990583,219,click My Info-54,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,713,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,219,0,0
+1699435990803,263,click My Info-55,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,263,0,0
+1699435987556,4716,click My Info,401,"Number of samples in transaction : 13, number of failing samples : 9",jp@gc - Ultimate Thread Group 1-3,,false,,123121,12452,5,5,null,0,12,0
+1699435987557,917,click My Info-39,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6146,1691,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,505,0,0
+1699435987557,506,click My Info-39-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,849,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,505,0,0
+1699435988063,411,click My Info-39-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4487,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,411,0,0
+1699435988476,461,click My Info-42,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6149,1709,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,213,0,0
+1699435988476,213,click My Info-42-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,213,0,0
+1699435988690,247,click My Info-42-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4490,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,247,0,0
+1699435988937,706,click My Info-44,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,101731,751,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,337,0,0
+1699435989644,495,click My Info-45,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6143,1489,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,240,0,0
+1699435989644,240,click My Info-45-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,240,0,0
+1699435989884,255,click My Info-45-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4484,737,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,254,0,0
+1699435990140,210,click My Info-48,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,210,0,0
+1699435990351,220,click My Info-46,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,715,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7,220,0,0
+1699435990573,245,click My Info-49,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,807,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/custom-fields?screen=personal,245,0,0
+1699435990818,214,click My Info-47,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,794,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,214,0,0
+1699435991033,211,click My Info-50,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,823,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/screen/personal/attachments?limit=50&offset=0,211,0,0
+1699435991244,265,click My Info-52,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,265,0,0
+1699435991510,238,click My Info-53,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,238,0,0
+1699435991749,291,click My Info-54,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,713,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,291,0,0
+1699435992040,243,click My Info-55,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,243,0,0
+1699435991550,788,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-5,,true,,32812,2476,5,5,null,0,2,0
+1699435991551,172,Logout-62,200,OK,jp@gc - Ultimate Thread Group 1-5,,true,,26665,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,170,0,0
+1699435991724,616,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6147,1725,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,315,0,0
+1699435991724,316,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,315,0,0
+1699435992040,300,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4488,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,300,0,0
+1699435992067,330,Save,401,"Number of samples in transaction : 1, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-4,,false,,328,1188,5,5,null,0,1,0
+1699435992068,330,Save-59,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,1188,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,330,0,0
+1699435993286,252,Save,401,"Number of samples in transaction : 1, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-3,,false,,328,1188,5,5,null,0,2,0
+1699435993287,252,Save-59,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,1188,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,252,0,0
+1699435993399,858,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-4,,true,,32805,2476,5,5,null,0,2,0
+1699435993400,252,Logout-62,200,OK,jp@gc - Ultimate Thread Group 1-4,,true,,26665,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,251,0,0
+1699435993653,606,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6140,1725,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,256,0,0
+1699435993653,256,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,256,0,0
+1699435993910,349,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4481,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,349,0,0
+1699435989724,4806,click My Info,401,"Number of samples in transaction : 13, number of failing samples : 9",jp@gc - Ultimate Thread Group 1-2,,false,,123138,12452,5,5,null,0,17,0
+1699435989725,467,click My Info-39,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6153,1691,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,220,0,0
+1699435989725,221,click My Info-39-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,849,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,220,0,0
+1699435989946,246,click My Info-39-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4494,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,246,0,0
+1699435990193,561,click My Info-42,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6138,1709,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,222,0,0
+1699435990193,222,click My Info-42-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,222,0,0
+1699435990415,339,click My Info-42-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4479,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,339,0,0
+1699435990755,789,click My Info-44,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,101739,751,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,372,0,0
+1699435991545,574,click My Info-45,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6156,1489,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,217,0,0
+1699435991545,218,click My Info-45-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,217,0,0
+1699435991763,356,click My Info-45-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4497,737,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,356,0,0
+1699435992119,290,click My Info-48,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,290,0,0
+1699435992412,219,click My Info-46,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,715,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7,218,0,0
+1699435992632,260,click My Info-49,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,807,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/custom-fields?screen=personal,260,0,0
+1699435992895,274,click My Info-47,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,794,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,274,0,0
+1699435993170,255,click My Info-50,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,823,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/screen/personal/attachments?limit=50&offset=0,255,0,0
+1699435993426,268,click My Info-52,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,268,0,0
+1699435993695,288,click My Info-53,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,288,0,0
+1699435993984,301,click My Info-54,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,713,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,301,0,0
+1699435994286,260,click My Info-55,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,260,0,0
+1699435994540,876,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-3,,true,,32813,2476,5,5,null,0,3,0
+1699435994541,235,Logout-62,200,OK,jp@gc - Ultimate Thread Group 1-3,,true,,26665,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,232,0,0
+1699435994777,641,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6148,1725,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,335,0,0
+1699435994777,335,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,335,0,0
+1699435995113,305,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4489,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,305,0,0
+1699435995550,297,Save,401,"Number of samples in transaction : 1, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-2,,false,,328,1188,5,5,null,0,1,0
+1699435995551,297,Save-59,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,1188,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,297,0,0
+1699435991731,5453,click My Info,401,"Number of samples in transaction : 13, number of failing samples : 9",jp@gc - Ultimate Thread Group 1-1,,false,,123125,12452,5,5,null,0,19,0
+1699435991732,582,click My Info-39,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6130,1691,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,308,0,0
+1699435991732,308,click My Info-39-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,849,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,308,0,0
+1699435992040,274,click My Info-39-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4471,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,274,0,0
+1699435992315,543,click My Info-42,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6156,1709,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,222,0,0
+1699435992315,223,click My Info-42-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,222,0,0
+1699435992540,318,click My Info-42-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4497,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,318,0,0
+1699435992859,1058,click My Info-44,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,101731,751,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,516,0,0
+1699435993918,570,click My Info-45,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6156,1489,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,272,0,0
+1699435993918,272,click My Info-45-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,272,0,0
+1699435994190,298,click My Info-45-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4497,737,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,298,0,0
+1699435994489,312,click My Info-48,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,312,0,0
+1699435994802,341,click My Info-46,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,715,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7,341,0,0
+1699435995144,274,click My Info-49,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,807,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/custom-fields?screen=personal,274,0,0
+1699435995420,276,click My Info-47,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,794,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,276,0,0
+1699435995697,264,click My Info-50,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,823,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/screen/personal/attachments?limit=50&offset=0,264,0,0
+1699435995966,272,click My Info-52,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,272,0,0
+1699435996240,410,click My Info-53,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,410,0,0
+1699435996651,275,click My Info-54,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,713,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,275,0,0
+1699435996927,276,click My Info-55,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,276,0,0
+1699435996850,776,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-2,,true,,32822,2476,5,5,null,0,1,0
+1699435996850,232,Logout-62,200,OK,jp@gc - Ultimate Thread Group 1-2,,true,,26665,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,231,0,0
+1699435997083,544,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6157,1725,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,253,0,0
+1699435997083,253,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,253,0,0
+1699435997337,290,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4498,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,290,0,0
+1699435998205,236,Save,401,"Number of samples in transaction : 1, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-1,,false,,328,1188,5,5,null,0,2,0
+1699435998206,236,Save-59,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,1188,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,236,0,0
+1699435997346,1330,open Web Page,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-5,,true,,106222,1547,5,5,null,0,17,420
+1699435997361,688,open Web Page-9,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4491,821,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,688,0,420
+1699435998050,642,open Web Page-10,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,101731,726,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,348,0,0
+1699435999443,786,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,32803,2476,5,5,null,0,3,0
+1699435999444,221,Logout-62,200,OK,jp@gc - Ultimate Thread Group 1-1,,true,,26665,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,220,0,0
+1699435999666,565,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6138,1725,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,222,0,0
+1699435999666,222,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,222,0,0
+1699435999889,342,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4479,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,342,0,0
+1699435999264,1341,open Web Page,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-4,,true,,106217,1547,5,5,null,0,11,368
+1699435999273,642,open Web Page-9,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4486,821,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,641,0,368
+1699435999916,699,open Web Page-10,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,101731,726,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,499,0,0
+1699436000421,1333,open Web Page,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-3,,true,,106226,1547,5,5,null,0,5,320
+1699436000424,599,open Web Page-9,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4495,821,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,599,0,320
+1699436001024,734,open Web Page-10,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,101731,726,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,433,0,0
+1699436002628,1735,open Web Page,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-2,,true,,106230,1547,5,5,null,0,10,579
+1699436002637,884,open Web Page-9,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4491,821,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,884,0,579
+1699436003522,851,open Web Page-10,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,101739,726,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,463,0,0
+1699436005232,1418,open Web Page,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,106208,1547,5,5,null,0,6,317
+1699436005237,586,open Web Page-9,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4469,821,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,586,0,317
+1699436005824,832,open Web Page-10,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,101739,726,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,442,0,0
+1699435999694,7706,login,401,"Number of samples in transaction : 19, number of failing samples : 7",jp@gc - Ultimate Thread Group 1-5,,false,,214695,21744,5,5,null,0,16,0
+1699435999694,545,login-11,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6280,2141,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,252,0,0
+1699435999694,252,login-11-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,1178,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,252,0,0
+1699435999947,292,login-11-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4621,963,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,292,0,0
+1699436000239,592,login-13,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6153,1731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,256,0,0
+1699436000239,257,login-13-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,868,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,256,0,0
+1699436000496,335,login-13-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4494,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,335,0,0
+1699436000832,651,login-16,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,101739,731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,368,0,0
+1699436001484,209,login-17,200,OK,jp@gc - Ultimate Thread Group 1-5,,true,,27385,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,207,0,0
+1699436001694,190,login-18,200,OK,jp@gc - Ultimate Thread Group 1-5,,true,,27873,754,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,189,0,0
+1699436001885,241,login-19,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,834,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=3&currentDate=2023-11-08&currentTime=09%3A32,241,0,0
+1699436002126,202,login-20,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,761,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,202,0,0
+1699436002328,246,login-21,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,776,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,246,0,0
+1699436002575,249,login-22,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,750,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,249,0,0
+1699436002830,284,login-24,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,784,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2023-05-25,283,0,0
+1699436003114,542,login-25,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6130,1519,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,254,0,0
+1699436003114,254,login-25-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,802,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,254,0,0
+1699436003369,287,login-25-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4471,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,287,0,0
+1699436003657,268,login-26,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,268,0,0
+1699436003926,230,login-27,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,771,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,230,0,0
+1699436004156,496,login-29,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6158,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,236,0,0
+1699436004156,236,login-29-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/15,236,0,0
+1699436004392,260,login-29-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4499,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,260,0,0
+1699436004652,502,login-31,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6137,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,227,0,0
+1699436004652,227,login-31-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,227,0,0
+1699436004880,274,login-31-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4478,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,274,0,0
+1699436005155,584,login-34,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6140,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,224,0,0
+1699436005155,224,login-34-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2,224,0,0
+1699436005380,359,login-34-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4481,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,359,0,0
+1699436005739,548,login-33,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6144,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,267,0,0
+1699436005739,267,login-33-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/12,267,0,0
+1699436006006,281,login-33-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4485,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,281,0,0
+1699436006287,543,login-36,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6131,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,273,0,0
+1699436006287,273,login-36-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,273,0,0
+1699436006561,269,login-36-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4472,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,269,0,0
+1699436006830,584,login-35,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6129,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,305,0,0
+1699436006830,305,login-35-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11,305,0,0
+1699436007136,278,login-35-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4470,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,278,0,0
+1699436001616,7789,login,401,"Number of samples in transaction : 19, number of failing samples : 7",jp@gc - Ultimate Thread Group 1-4,,false,,214772,21739,5,5,null,0,15,0
+1699436001616,594,login-11,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6282,2136,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,302,0,0
+1699436001616,302,login-11-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,1173,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,302,0,0
+1699436001920,290,login-11-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4623,963,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,290,0,0
+1699436002211,519,login-13,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6155,1731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,245,0,0
+1699436002211,246,login-13-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,868,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,245,0,0
+1699436002457,273,login-13-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4496,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,273,0,0
+1699436002731,768,login-16,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,101731,731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,458,0,0
+1699436003500,218,login-17,200,OK,jp@gc - Ultimate Thread Group 1-4,,true,,27385,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,217,0,0
+1699436003719,233,login-18,200,OK,jp@gc - Ultimate Thread Group 1-4,,true,,27873,754,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,232,0,0
+1699436003953,229,login-19,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,834,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=3&currentDate=2023-11-08&currentTime=09%3A32,229,0,0
+1699436004183,233,login-20,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,761,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,233,0,0
+1699436004416,235,login-21,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,776,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,235,0,0
+1699436004652,225,login-22,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,750,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,225,0,0
+1699436004877,277,login-24,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,784,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2023-05-25,276,0,0
+1699436005154,565,login-25,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6139,1519,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,225,0,0
+1699436005154,225,login-25-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,802,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,225,0,0
+1699436005380,339,login-25-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4480,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,339,0,0
+1699436005720,263,login-26,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,263,0,0
+1699436005984,264,login-27,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,771,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,264,0,0
+1699436006249,538,login-29,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6145,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,266,0,0
+1699436006249,266,login-29-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/15,266,0,0
+1699436006515,272,login-29-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4486,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,272,0,0
+1699436006788,583,login-31,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6149,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,308,0,0
+1699436006788,308,login-31-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,308,0,0
+1699436007097,274,login-31-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4490,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,274,0,0
+1699436007372,509,login-34,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6159,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,224,0,0
+1699436007372,225,login-34-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2,224,0,0
+1699436007597,284,login-34-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4500,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,284,0,0
+1699436007882,490,login-33,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6153,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,225,0,0
+1699436007882,225,login-33-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/12,225,0,0
+1699436008108,264,login-33-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4494,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,264,0,0
+1699436008373,542,login-36,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6154,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,228,0,0
+1699436008373,228,login-36-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,228,0,0
+1699436008602,313,login-36-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4495,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,312,0,0
+1699436008916,504,login-35,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6151,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,232,0,0
+1699436008916,232,login-35-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11,232,0,0
+1699436009148,272,login-35-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4492,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,272,0,0
+1699436002759,7496,login,401,"Number of samples in transaction : 19, number of failing samples : 7",jp@gc - Ultimate Thread Group 1-3,,false,,214691,21748,5,5,null,0,15,0
+1699436002760,560,login-11,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6272,2145,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,275,0,0
+1699436002760,275,login-11-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,1182,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,275,0,0
+1699436003036,284,login-11-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4613,963,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,284,0,0
+1699436003321,566,login-13,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6140,1731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,260,0,0
+1699436003321,260,login-13-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,868,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,260,0,0
+1699436003581,306,login-13-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4481,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,306,0,0
+1699436003888,714,login-16,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,101739,731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,451,0,0
+1699436004603,189,login-17,200,OK,jp@gc - Ultimate Thread Group 1-3,,true,,27385,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,186,0,0
+1699436004793,197,login-18,200,OK,jp@gc - Ultimate Thread Group 1-3,,true,,27873,754,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,196,0,0
+1699436004991,246,login-19,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,834,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=3&currentDate=2023-11-08&currentTime=09%3A32,246,0,0
+1699436005237,218,login-20,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,761,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,218,0,0
+1699436005456,275,login-21,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,776,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,275,0,0
+1699436005732,239,login-22,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,750,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,239,0,0
+1699436005972,258,login-24,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,784,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2023-05-25,258,0,0
+1699436006230,545,login-25,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6133,1519,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,242,0,0
+1699436006230,243,login-25-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,802,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,242,0,0
+1699436006473,302,login-25-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4474,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,302,0,0
+1699436006776,231,login-26,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,231,0,0
+1699436007007,247,login-27,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,771,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,247,0,0
+1699436007255,525,login-29,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6139,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,257,0,0
+1699436007255,257,login-29-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/15,257,0,0
+1699436007513,267,login-29-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4480,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,267,0,0
+1699436007780,525,login-31,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6157,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,258,0,0
+1699436007780,258,login-31-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,258,0,0
+1699436008038,267,login-31-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4498,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,267,0,0
+1699436008306,523,login-34,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6134,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,230,0,0
+1699436008306,230,login-34-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2,230,0,0
+1699436008536,293,login-34-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4475,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,293,0,0
+1699436008830,482,login-33,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6141,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,231,0,0
+1699436008830,231,login-33-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/12,231,0,0
+1699436009061,251,login-33-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4482,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,251,0,0
+1699436009313,451,login-36,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6130,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,205,0,0
+1699436009313,205,login-36-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,205,0,0
+1699436009519,245,login-36-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4471,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,245,0,0
+1699436009764,505,login-35,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6152,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,243,0,0
+1699436009764,243,login-35-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11,243,0,0
+1699436010007,262,login-35-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4493,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,262,0,0
+1699436005375,7666,login,401,"Number of samples in transaction : 19, number of failing samples : 7",jp@gc - Ultimate Thread Group 1-2,,false,,214729,21744,5,5,null,0,15,0
+1699436005376,574,login-11,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6274,2141,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,280,0,0
+1699436005376,280,login-11-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,1178,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,280,0,0
+1699436005656,294,login-11-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4615,963,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,294,0,0
+1699436005951,561,login-13,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6129,1731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,261,0,0
+1699436005951,261,login-13-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,868,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,261,0,0
+1699436006212,300,login-13-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4470,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,300,0,0
+1699436006513,778,login-16,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,101731,731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,425,0,0
+1699436007292,194,login-17,200,OK,jp@gc - Ultimate Thread Group 1-2,,true,,27385,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,193,0,0
+1699436007487,185,login-18,200,OK,jp@gc - Ultimate Thread Group 1-2,,true,,27873,754,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,184,0,0
+1699436007673,250,login-19,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,834,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=3&currentDate=2023-11-08&currentTime=09%3A32,250,0,0
+1699436007924,226,login-20,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,761,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,226,0,0
+1699436008151,229,login-21,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,776,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,228,0,0
+1699436008380,256,login-22,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,750,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,256,0,0
+1699436008636,305,login-24,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,784,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2023-05-25,305,0,0
+1699436008941,498,login-25,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6135,1519,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,241,0,0
+1699436008941,241,login-25-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,802,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,241,0,0
+1699436009183,256,login-25-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4476,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,256,0,0
+1699436009439,209,login-26,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,209,0,0
+1699436009649,201,login-27,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,771,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,201,0,0
+1699436009851,556,login-29,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6158,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,248,0,0
+1699436009851,248,login-29-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/15,248,0,0
+1699436010100,307,login-29-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4499,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,307,0,0
+1699436010407,515,login-31,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6135,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,235,0,0
+1699436010407,235,login-31-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,235,0,0
+1699436010642,280,login-31-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4476,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,279,0,0
+1699436010923,493,login-34,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6157,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,224,0,0
+1699436010923,224,login-34-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2,224,0,0
+1699436011148,268,login-34-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4498,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,268,0,0
+1699436011417,580,login-33,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6152,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,307,0,0
+1699436011417,307,login-33-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/12,307,0,0
+1699436011725,272,login-33-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4493,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,272,0,0
+1699436011998,548,login-36,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6156,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,250,0,0
+1699436011998,250,login-36-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,250,0,0
+1699436012249,297,login-36-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4497,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,297,0,0
+1699436012547,508,login-35,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6148,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,225,0,0
+1699436012547,225,login-35-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11,225,0,0
+1699436012772,283,login-35-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4489,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,283,0,0
+1699436008417,4660,click My Info,401,"Number of samples in transaction : 13, number of failing samples : 9",jp@gc - Ultimate Thread Group 1-5,,false,,123117,12452,5,5,null,0,11,0
+1699436008417,553,click My Info-39,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6135,1691,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,228,0,0
+1699436008417,228,click My Info-39-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,849,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,228,0,0
+1699436008645,325,click My Info-39-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4476,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,325,0,0
+1699436008971,498,click My Info-42,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6149,1709,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,231,0,0
+1699436008971,231,click My Info-42-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,231,0,0
+1699436009202,267,click My Info-42-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4490,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,267,0,0
+1699436009469,647,click My Info-44,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,101731,751,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,336,0,0
+1699436010117,521,click My Info-45,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6150,1489,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,215,0,0
+1699436010117,215,click My Info-45-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,215,0,0
+1699436010332,306,click My Info-45-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4491,737,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,306,0,0
+1699436010639,300,click My Info-48,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,300,0,0
+1699436010940,273,click My Info-46,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,715,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7,273,0,0
+1699436011214,282,click My Info-49,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,807,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/custom-fields?screen=personal,282,0,0
+1699436011497,357,click My Info-47,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,794,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,357,0,0
+1699436011855,304,click My Info-50,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,823,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/screen/personal/attachments?limit=50&offset=0,304,0,0
+1699436012160,241,click My Info-52,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,241,0,0
+1699436012401,230,click My Info-53,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,230,0,0
+1699436012633,230,click My Info-54,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,713,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,230,0,0
+1699436012864,224,click My Info-55,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,224,0,0
+1699436014089,224,Save,401,"Number of samples in transaction : 1, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-5,,false,,328,1188,5,5,null,0,1,0
+1699436014090,224,Save-59,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,1188,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,224,0,0
+1699436010423,4481,click My Info,401,"Number of samples in transaction : 13, number of failing samples : 9",jp@gc - Ultimate Thread Group 1-4,,false,,123119,12452,5,5,null,0,8,0
+1699436010424,609,click My Info-39,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6144,1691,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,285,0,0
+1699436010424,285,click My Info-39-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,849,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,285,0,0
+1699436010710,323,click My Info-39-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4485,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,323,0,0
+1699436011034,608,click My Info-42,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6148,1709,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,289,0,0
+1699436011034,289,click My Info-42-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,289,0,0
+1699436011323,319,click My Info-42-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4489,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,318,0,0
+1699436011642,658,click My Info-44,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,101731,751,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,357,0,0
+1699436012301,513,click My Info-45,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6144,1489,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,249,0,0
+1699436012301,249,click My Info-45-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,249,0,0
+1699436012551,263,click My Info-45-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4485,737,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,263,0,0
+1699436012815,216,click My Info-48,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,216,0,0
+1699436013032,255,click My Info-46,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,715,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7,255,0,0
+1699436013287,232,click My Info-49,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,807,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/custom-fields?screen=personal,232,0,0
+1699436013519,239,click My Info-47,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,794,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,239,0,0
+1699436013759,233,click My Info-50,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,823,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/screen/personal/attachments?limit=50&offset=0,233,0,0
+1699436013992,223,click My Info-52,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,223,0,0
+1699436014216,222,click My Info-53,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,221,0,0
+1699436014438,237,click My Info-54,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,713,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,237,0,0
+1699436014676,236,click My Info-55,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,236,0,0
+1699436007657,7767,login,401,"Number of samples in transaction : 19, number of failing samples : 7",jp@gc - Ultimate Thread Group 1-1,,false,,214700,21722,5,5,null,0,17,0
+1699436007658,530,login-11,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6258,2119,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,245,0,0
+1699436007658,245,login-11-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,1156,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,245,0,0
+1699436007903,285,login-11-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4599,963,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,285,0,0
+1699436008189,539,login-13,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6146,1731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,256,0,0
+1699436008189,256,login-13-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,868,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,256,0,0
+1699436008446,282,login-13-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4487,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,282,0,0
+1699436008729,709,login-16,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,101739,731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,427,0,0
+1699436009438,184,login-17,200,OK,jp@gc - Ultimate Thread Group 1-1,,true,,27385,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,183,0,0
+1699436009623,186,login-18,200,OK,jp@gc - Ultimate Thread Group 1-1,,true,,27873,754,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,184,0,0
+1699436009810,353,login-19,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,834,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=3&currentDate=2023-11-08&currentTime=09%3A32,353,0,0
+1699436010164,219,login-20,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,761,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,219,0,0
+1699436010384,279,login-21,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,776,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,279,0,0
+1699436010664,274,login-22,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,750,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,274,0,0
+1699436010939,274,login-24,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,784,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2023-05-25,274,0,0
+1699436011214,662,login-25,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6139,1519,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,282,0,0
+1699436011214,282,login-25-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,802,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,282,0,0
+1699436011496,380,login-25-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4480,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,380,0,0
+1699436011877,231,login-26,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,231,0,0
+1699436012109,297,login-27,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,771,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,297,0,0
+1699436012407,507,login-29,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6150,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,242,0,0
+1699436012407,242,login-29-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/15,242,0,0
+1699436012649,265,login-29-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4491,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,265,0,0
+1699436012915,496,login-31,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6143,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,228,0,0
+1699436012915,228,login-31-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,228,0,0
+1699436013143,268,login-31-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4484,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,268,0,0
+1699436013412,509,login-34,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6132,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,238,0,0
+1699436013412,238,login-34-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2,238,0,0
+1699436013650,271,login-34-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4473,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,271,0,0
+1699436013922,482,login-33,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6138,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,222,0,0
+1699436013922,222,login-33-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/12,222,0,0
+1699436014145,259,login-33-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4479,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,259,0,0
+1699436014404,500,login-36,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6151,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,226,0,0
+1699436014404,226,login-36-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,226,0,0
+1699436014631,273,login-36-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4492,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,273,0,0
+1699436014904,536,login-35,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6150,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,246,0,0
+1699436014904,246,login-35-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11,246,0,0
+1699436015151,289,login-35-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4491,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,289,0,0
+1699436011272,4743,click My Info,401,"Number of samples in transaction : 13, number of failing samples : 9",jp@gc - Ultimate Thread Group 1-3,,false,,123119,12452,5,5,null,0,8,0
+1699436011274,553,click My Info-39,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6156,1691,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,234,0,0
+1699436011274,234,click My Info-39-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,849,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,234,0,0
+1699436011509,318,click My Info-39-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4497,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,318,0,0
+1699436011827,648,click My Info-42,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6140,1709,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,306,0,0
+1699436011827,306,click My Info-42-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,306,0,0
+1699436012134,341,click My Info-42-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4481,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,341,0,0
+1699436012476,816,click My Info-44,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,101739,751,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,348,0,0
+1699436013293,503,click My Info-45,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6132,1489,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,232,0,0
+1699436013293,232,click My Info-45-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,232,0,0
+1699436013525,271,click My Info-45-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4473,737,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,271,0,0
+1699436013796,228,click My Info-48,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,228,0,0
+1699436014024,285,click My Info-46,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,715,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7,285,0,0
+1699436014309,228,click My Info-49,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,807,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/custom-fields?screen=personal,228,0,0
+1699436014538,237,click My Info-47,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,794,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,237,0,0
+1699436014775,237,click My Info-50,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,823,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/screen/personal/attachments?limit=50&offset=0,237,0,0
+1699436015013,237,click My Info-52,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,237,0,0
+1699436015251,287,click My Info-53,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,287,0,0
+1699436015538,248,click My Info-54,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,713,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,248,0,0
+1699436015787,236,click My Info-55,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,236,0,0
+1699436015315,800,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-5,,true,,32810,2476,5,5,null,0,1,0
+1699436015315,294,Logout-62,200,OK,jp@gc - Ultimate Thread Group 1-5,,true,,26665,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,293,0,0
+1699436015609,506,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6145,1725,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,239,0,0
+1699436015609,239,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,239,0,0
+1699436015848,267,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4486,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,267,0,0
+1699436015914,229,Save,401,"Number of samples in transaction : 1, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-4,,false,,328,1188,5,5,null,0,2,0
+1699436015915,229,Save-59,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,1188,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,229,0,0
+1699436017024,255,Save,401,"Number of samples in transaction : 1, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-3,,false,,328,1188,5,5,null,0,0,0
+1699436017024,255,Save-59,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,1188,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,255,0,0
+1699436017145,696,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-4,,true,,32823,2476,5,5,null,0,2,0
+1699436017146,192,Logout-62,200,OK,jp@gc - Ultimate Thread Group 1-4,,true,,26665,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,192,0,0
+1699436017339,504,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6158,1725,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,214,0,0
+1699436017339,214,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,214,0,0
+1699436017553,290,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4499,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,290,0,0
+1699436014059,4500,click My Info,401,"Number of samples in transaction : 13, number of failing samples : 9",jp@gc - Ultimate Thread Group 1-2,,false,,123092,12452,5,5,null,0,8,0
+1699436014059,485,click My Info-39,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6133,1691,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,225,0,0
+1699436014059,225,click My Info-39-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,849,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,225,0,0
+1699436014284,260,click My Info-39-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4474,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,260,0,0
+1699436014545,516,click My Info-42,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6143,1709,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,230,0,0
+1699436014545,230,click My Info-42-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,230,0,0
+1699436014775,286,click My Info-42-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4484,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,286,0,0
+1699436015062,706,click My Info-44,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,101731,751,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,340,0,0
+1699436015769,486,click My Info-45,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6133,1489,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,237,0,0
+1699436015769,238,click My Info-45-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,237,0,0
+1699436016007,248,click My Info-45-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4474,737,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,248,0,0
+1699436016255,212,click My Info-48,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,212,0,0
+1699436016467,209,click My Info-46,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,715,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7,209,0,0
+1699436016676,348,click My Info-49,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,807,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/custom-fields?screen=personal,348,0,0
+1699436017024,228,click My Info-47,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,794,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,228,0,0
+1699436017253,284,click My Info-50,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,823,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/screen/personal/attachments?limit=50&offset=0,284,0,0
+1699436017538,304,click My Info-52,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,304,0,0
+1699436017843,223,click My Info-53,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,223,0,0
+1699436018067,265,click My Info-54,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,713,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,265,0,0
+1699436018333,234,click My Info-55,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,234,0,0
+1699436018281,776,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-3,,true,,32821,2476,5,5,null,0,2,0
+1699436018282,222,Logout-62,200,OK,jp@gc - Ultimate Thread Group 1-3,,true,,26665,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,222,0,0
+1699436018505,554,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6156,1725,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,245,0,0
+1699436018505,245,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,245,0,0
+1699436018751,308,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4497,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,308,0,0
+1699436019568,234,Save,401,"Number of samples in transaction : 1, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-2,,false,,328,1188,5,5,null,0,1,0
+1699436019568,234,Save-59,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,1188,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,234,0,0
+1699436016443,4881,click My Info,401,"Number of samples in transaction : 13, number of failing samples : 9",jp@gc - Ultimate Thread Group 1-1,,false,,123113,12452,5,5,null,0,6,0
+1699436016444,580,click My Info-39,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6142,1691,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,214,0,0
+1699436016444,214,click My Info-39-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,849,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,214,0,0
+1699436016658,366,click My Info-39-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4483,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,366,0,0
+1699436017025,522,click My Info-42,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6139,1709,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,235,0,0
+1699436017025,235,click My Info-42-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,235,0,0
+1699436017260,287,click My Info-42-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4480,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,287,0,0
+1699436017548,905,click My Info-44,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,101731,751,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,397,0,0
+1699436018453,606,click My Info-45,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6149,1489,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,249,0,0
+1699436018453,249,click My Info-45-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,249,0,0
+1699436018703,356,click My Info-45-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4490,737,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,356,0,0
+1699436019060,225,click My Info-48,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,225,0,0
+1699436019285,222,click My Info-46,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,715,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7,222,0,0
+1699436019507,295,click My Info-49,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,807,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/custom-fields?screen=personal,295,0,0
+1699436019803,232,click My Info-47,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,794,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,232,0,0
+1699436020035,267,click My Info-50,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,823,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/screen/personal/attachments?limit=50&offset=0,267,0,0
+1699436020302,233,click My Info-52,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,233,0,0
+1699436020536,276,click My Info-53,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,276,0,0
+1699436020812,247,click My Info-54,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,713,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,247,0,0
+1699436021059,271,click My Info-55,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,271,0,0
+1699436020803,827,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-2,,true,,32819,2476,5,5,null,0,2,0
+1699436020804,166,Logout-62,200,OK,jp@gc - Ultimate Thread Group 1-2,,true,,26665,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,166,0,0
+1699436020971,661,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6154,1725,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,303,0,0
+1699436020971,303,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,303,0,0
+1699436021275,357,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4495,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,357,0,0
+1699436021118,1340,open Web Page,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-5,,true,,106225,1547,5,5,null,0,4,291
+1699436021121,561,open Web Page-9,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4494,821,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,561,0,291
+1699436021683,779,open Web Page-10,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,101731,726,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,463,0,0
+1699436022333,235,Save,401,"Number of samples in transaction : 1, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-1,,false,,328,1188,5,5,null,0,1,0
+1699436022333,235,Save-59,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,1188,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,235,0,0
+1699436022845,1270,open Web Page,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-4,,true,,106218,1547,5,5,null,0,5,355
+1699436022849,631,open Web Page-9,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4487,821,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,631,0,355
+1699436023481,639,open Web Page-10,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,101731,726,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,346,0,0
+1699436023569,714,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,32802,2476,5,5,null,0,3,0
+1699436023570,224,Logout-62,200,OK,jp@gc - Ultimate Thread Group 1-1,,true,,26665,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,224,0,0
+1699436023795,490,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6137,1725,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,227,0,0
+1699436023795,227,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,227,0,0
+1699436024023,262,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4478,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,262,0,0
+1699436024060,1372,open Web Page,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-3,,true,,106212,1547,5,5,null,0,6,323
+1699436024064,600,open Web Page-9,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4473,821,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,600,0,323
+1699436024665,772,open Web Page-10,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,101739,726,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,418,0,0
+1699436026633,1380,open Web Page,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-2,,true,,106228,1547,5,5,null,0,3,346
+1699436026635,630,open Web Page-9,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4489,821,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,630,0,346
+1699436027266,750,open Web Page-10,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,101739,726,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,387,0,0
+1699436029286,1207,open Web Page,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,106224,1547,5,5,null,0,2,333
+1699436029288,612,open Web Page-9,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4493,821,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,612,0,333
+1699436029900,595,open Web Page-10,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,101731,726,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,333,0,0
+1699436023462,8124,login,401,"Number of samples in transaction : 19, number of failing samples : 7",jp@gc - Ultimate Thread Group 1-5,,false,,214726,21747,5,5,null,0,12,0
+1699436023463,511,login-11,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6253,2144,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,245,0,0
+1699436023463,245,login-11-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,1181,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,245,0,0
+1699436023708,266,login-11-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4594,963,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,266,0,0
+1699436023975,480,login-13,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6156,1731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,230,0,0
+1699436023975,230,login-13-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,868,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,230,0,0
+1699436024205,250,login-13-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4497,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,250,0,0
+1699436024456,815,login-16,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,101731,731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,458,0,0
+1699436025272,229,login-17,200,OK,jp@gc - Ultimate Thread Group 1-5,,true,,27385,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,228,0,0
+1699436025502,339,login-18,200,OK,jp@gc - Ultimate Thread Group 1-5,,true,,27873,754,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,338,0,0
+1699436025841,233,login-19,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,834,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=3&currentDate=2023-11-08&currentTime=09%3A32,233,0,0
+1699436026075,274,login-20,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,761,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,274,0,0
+1699436026349,227,login-21,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,776,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,227,0,0
+1699436026576,217,login-22,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,750,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,217,0,0
+1699436026793,230,login-24,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,784,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2023-05-25,230,0,0
+1699436027023,540,login-25,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6142,1519,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,249,0,0
+1699436027023,249,login-25-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,802,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,249,0,0
+1699436027273,290,login-25-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4483,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,290,0,0
+1699436027564,240,login-26,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,240,0,0
+1699436027805,266,login-27,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,771,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,266,0,0
+1699436028072,727,login-29,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6137,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,347,0,0
+1699436028072,347,login-29-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/15,347,0,0
+1699436028419,380,login-29-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4478,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,380,0,0
+1699436028799,602,login-31,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6151,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,291,0,0
+1699436028799,291,login-31-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,291,0,0
+1699436029090,311,login-31-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4492,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,311,0,0
+1699436029402,593,login-34,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6152,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,253,0,0
+1699436029402,253,login-34-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2,253,0,0
+1699436029656,339,login-34-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4493,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,339,0,0
+1699436029996,543,login-33,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6149,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,280,0,0
+1699436029996,280,login-33-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/12,280,0,0
+1699436030276,263,login-33-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4490,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,263,0,0
+1699436030539,538,login-36,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6150,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,273,0,0
+1699436030539,273,login-36-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,273,0,0
+1699436030812,265,login-36-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4491,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,265,0,0
+1699436031078,520,login-35,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6151,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,227,0,0
+1699436031078,227,login-35-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11,227,0,0
+1699436031306,292,login-35-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4492,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,292,0,0
+1699436025121,8522,login,401,"Number of samples in transaction : 19, number of failing samples : 7",jp@gc - Ultimate Thread Group 1-4,,false,,214676,21740,5,5,null,0,9,0
+1699436025121,608,login-11,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6272,2137,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,237,0,0
+1699436025121,237,login-11-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,1174,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,237,0,0
+1699436025359,370,login-11-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4613,963,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,370,0,0
+1699436025729,621,login-13,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6149,1731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,306,0,0
+1699436025729,306,login-13-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,868,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,306,0,0
+1699436026036,314,login-13-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4490,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,314,0,0
+1699436026350,1010,login-16,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,101731,731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,442,0,0
+1699436027361,248,login-17,200,OK,jp@gc - Ultimate Thread Group 1-4,,true,,27385,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,248,0,0
+1699436027610,254,login-18,200,OK,jp@gc - Ultimate Thread Group 1-4,,true,,27873,754,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,253,0,0
+1699436027864,326,login-19,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,834,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=3&currentDate=2023-11-08&currentTime=09%3A32,326,0,0
+1699436028191,404,login-20,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,761,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,404,0,0
+1699436028596,259,login-21,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,776,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,259,0,0
+1699436028855,276,login-22,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,750,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,276,0,0
+1699436029132,244,login-24,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,784,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2023-05-25,243,0,0
+1699436029376,526,login-25,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6131,1519,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,244,0,0
+1699436029376,244,login-25-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,802,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,244,0,0
+1699436029620,282,login-25-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4472,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,282,0,0
+1699436029903,237,login-26,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,237,0,0
+1699436030140,223,login-27,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,771,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,222,0,0
+1699436030363,556,login-29,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6137,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,235,0,0
+1699436030363,235,login-29-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/15,235,0,0
+1699436030598,321,login-29-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4478,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,321,0,0
+1699436030919,490,login-31,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6130,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,224,0,0
+1699436030919,224,login-31-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,224,0,0
+1699436031144,265,login-31-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4471,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,265,0,0
+1699436031410,510,login-34,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6136,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,233,0,0
+1699436031410,233,login-34-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2,233,0,0
+1699436031643,277,login-34-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4477,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,277,0,0
+1699436031921,518,login-33,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6154,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,238,0,0
+1699436031921,238,login-33-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/12,238,0,0
+1699436032159,280,login-33-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4495,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,280,0,0
+1699436032440,585,login-36,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6153,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,304,0,0
+1699436032440,304,login-36-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,304,0,0
+1699436032744,281,login-36-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4494,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,281,0,0
+1699436033025,627,login-35,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6129,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,249,0,0
+1699436033025,249,login-35-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11,249,0,0
+1699436033274,378,login-35-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4470,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,378,0,0
+1699436026438,8241,login,401,"Number of samples in transaction : 19, number of failing samples : 7",jp@gc - Ultimate Thread Group 1-3,,false,,214737,21726,5,5,null,0,10,0
+1699436026439,490,login-11,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6268,2123,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,234,0,0
+1699436026439,234,login-11-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,1160,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,234,0,0
+1699436026673,256,login-11-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4609,963,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,256,0,0
+1699436026930,536,login-13,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6130,1731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,251,0,0
+1699436026930,251,login-13-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,868,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,251,0,0
+1699436027181,285,login-13-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4471,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,284,0,0
+1699436027466,877,login-16,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,101731,731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,381,0,0
+1699436028343,460,login-17,200,OK,jp@gc - Ultimate Thread Group 1-3,,true,,27385,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,460,0,0
+1699436028803,247,login-18,200,OK,jp@gc - Ultimate Thread Group 1-3,,true,,27873,754,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,246,0,0
+1699436029050,302,login-19,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,834,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=3&currentDate=2023-11-08&currentTime=09%3A32,302,0,0
+1699436029353,254,login-20,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,761,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,254,0,0
+1699436029607,303,login-21,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,776,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,303,0,0
+1699436029910,261,login-22,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,750,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,260,0,0
+1699436030172,221,login-24,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,784,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2023-05-25,220,0,0
+1699436030393,496,login-25,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6154,1519,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,234,0,0
+1699436030393,234,login-25-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,802,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,234,0,0
+1699436030628,261,login-25-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4495,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,261,0,0
+1699436030890,223,login-26,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,223,0,0
+1699436031113,227,login-27,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,771,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,227,0,0
+1699436031341,514,login-29,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6143,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,239,0,0
+1699436031341,239,login-29-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/15,239,0,0
+1699436031580,275,login-29-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4484,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,275,0,0
+1699436031855,528,login-31,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6158,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,239,0,0
+1699436031855,239,login-31-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,239,0,0
+1699436032095,288,login-31-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4499,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,288,0,0
+1699436032384,617,login-34,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6156,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,332,0,0
+1699436032384,332,login-34-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2,332,0,0
+1699436032716,285,login-34-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4497,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,285,0,0
+1699436033002,579,login-33,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6154,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,297,0,0
+1699436033002,297,login-33-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/12,297,0,0
+1699436033299,282,login-33-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4495,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,282,0,0
+1699436033582,566,login-36,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6147,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,283,0,0
+1699436033582,283,login-36-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,283,0,0
+1699436033865,283,login-36-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4488,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,283,0,0
+1699436034149,540,login-35,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6142,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,241,0,0
+1699436034149,241,login-35-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11,241,0,0
+1699436034391,298,login-35-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4483,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,298,0,0
+1699436029017,7913,login,401,"Number of samples in transaction : 19, number of failing samples : 7",jp@gc - Ultimate Thread Group 1-2,,false,,214708,21742,5,5,null,0,13,0
+1699436029017,603,login-11,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6282,2139,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,253,0,0
+1699436029017,253,login-11-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,1176,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,253,0,0
+1699436029270,350,login-11-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4623,963,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,350,0,0
+1699436029620,530,login-13,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6159,1731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,247,0,0
+1699436029620,247,login-13-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,868,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,247,0,0
+1699436029868,282,login-13-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4500,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,282,0,0
+1699436030151,648,login-16,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,101731,731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,365,0,0
+1699436030800,172,login-17,200,OK,jp@gc - Ultimate Thread Group 1-2,,true,,27385,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,170,0,0
+1699436030973,159,login-18,200,OK,jp@gc - Ultimate Thread Group 1-2,,true,,27873,754,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,159,0,0
+1699436031133,225,login-19,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,834,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=3&currentDate=2023-11-08&currentTime=09%3A32,225,0,0
+1699436031359,239,login-20,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,761,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,239,0,0
+1699436031598,259,login-21,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,776,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,259,0,0
+1699436031858,235,login-22,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,750,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,235,0,0
+1699436032094,247,login-24,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,784,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2023-05-25,247,0,0
+1699436032342,549,login-25,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6136,1519,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,262,0,0
+1699436032342,262,login-25-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,802,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,262,0,0
+1699436032604,287,login-25-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4477,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,286,0,0
+1699436032892,239,login-26,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,239,0,0
+1699436033131,241,login-27,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,771,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,241,0,0
+1699436033373,604,login-29,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6159,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,309,0,0
+1699436033373,309,login-29-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/15,309,0,0
+1699436033682,295,login-29-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4500,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,295,0,0
+1699436033978,625,login-31,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6133,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,301,0,0
+1699436033978,301,login-31-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,301,0,0
+1699436034280,323,login-31-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4474,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,323,0,0
+1699436034604,617,login-34,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6130,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,279,0,0
+1699436034604,279,login-34-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2,279,0,0
+1699436034884,337,login-34-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4471,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,337,0,0
+1699436035221,526,login-33,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6152,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,241,0,0
+1699436035221,241,login-33-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/12,241,0,0
+1699436035463,284,login-33-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4493,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,284,0,0
+1699436035747,661,login-36,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6141,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,307,0,0
+1699436035747,307,login-36-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,307,0,0
+1699436036054,354,login-36-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4482,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,353,0,0
+1699436036408,534,login-35,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6131,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,248,0,0
+1699436036408,248,login-35-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11,248,0,0
+1699436036656,286,login-35-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4472,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,286,0,0
+1699436032601,4710,click My Info,401,"Number of samples in transaction : 13, number of failing samples : 9",jp@gc - Ultimate Thread Group 1-5,,false,,123105,12452,5,5,null,0,5,0
+1699436032601,558,click My Info-39,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6136,1691,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,264,0,0
+1699436032601,264,click My Info-39-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,849,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,264,0,0
+1699436032865,294,click My Info-39-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4477,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,294,0,0
+1699436033159,570,click My Info-42,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6146,1709,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,292,0,0
+1699436033159,292,click My Info-42-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,292,0,0
+1699436033451,278,click My Info-42-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4487,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,278,0,0
+1699436033729,730,click My Info-44,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,101731,751,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,402,0,0
+1699436034461,595,click My Info-45,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6140,1489,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,296,0,0
+1699436034461,296,click My Info-45-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,296,0,0
+1699436034757,299,click My Info-45-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4481,737,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,299,0,0
+1699436035056,262,click My Info-48,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,262,0,0
+1699436035318,264,click My Info-46,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,715,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7,264,0,0
+1699436035582,247,click My Info-49,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,807,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/custom-fields?screen=personal,247,0,0
+1699436035830,251,click My Info-47,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,794,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,251,0,0
+1699436036081,252,click My Info-50,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,823,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/screen/personal/attachments?limit=50&offset=0,252,0,0
+1699436036333,246,click My Info-52,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,245,0,0
+1699436036579,248,click My Info-53,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,248,0,0
+1699436036827,243,click My Info-54,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,713,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,243,0,0
+1699436037071,244,click My Info-55,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,244,0,0
+1699436038316,227,Save,401,"Number of samples in transaction : 1, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-5,,false,,328,1188,5,5,null,0,1,0
+1699436038316,227,Save-59,401,Unauthorized,jp@gc - Ultimate Thread Group 1-5,text,false,,328,1188,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,227,0,0
+1699436031495,7754,login,401,"Number of samples in transaction : 19, number of failing samples : 7",jp@gc - Ultimate Thread Group 1-1,,false,,214691,21746,5,5,null,0,13,0
+1699436031496,575,login-11,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6264,2143,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,267,0,0
+1699436031496,267,login-11-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,1180,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,267,0,0
+1699436031763,308,login-11-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4605,963,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,308,0,0
+1699436032071,581,login-13,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6144,1731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,259,0,0
+1699436032071,259,login-13-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,868,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,259,0,0
+1699436032331,321,login-13-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4485,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,321,0,0
+1699436032653,669,login-16,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,101731,731,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,362,0,0
+1699436033323,202,login-17,200,OK,jp@gc - Ultimate Thread Group 1-1,,true,,27385,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,201,0,0
+1699436033525,207,login-18,200,OK,jp@gc - Ultimate Thread Group 1-1,,true,,27873,754,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,207,0,0
+1699436033733,269,login-19,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,834,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=3&currentDate=2023-11-08&currentTime=09%3A32,269,0,0
+1699436034003,243,login-20,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,761,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,243,0,0
+1699436034246,276,login-21,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,776,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,276,0,0
+1699436034523,251,login-22,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,750,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,251,0,0
+1699436034774,272,login-24,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,784,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2023-05-25,272,0,0
+1699436035046,536,login-25,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6144,1519,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,245,0,0
+1699436035046,245,login-25-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,802,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,245,0,0
+1699436035291,291,login-25-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4485,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,291,0,0
+1699436035582,244,login-26,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,769,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,244,0,0
+1699436035826,251,login-27,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,771,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,251,0,0
+1699436036078,618,login-29,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6146,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,322,0,0
+1699436036078,322,login-29-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/15,322,0,0
+1699436036400,296,login-29-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4487,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,296,0,0
+1699436036697,525,login-31,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6152,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,249,0,0
+1699436036697,249,login-31-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,249,0,0
+1699436036946,276,login-31-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4493,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,276,0,0
+1699436037223,502,login-34,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6158,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,235,0,0
+1699436037223,235,login-34-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,732,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2,235,0,0
+1699436037458,267,login-34-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4499,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,266,0,0
+1699436037725,500,login-33,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6130,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,235,0,0
+1699436037725,235,login-33-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/12,235,0,0
+1699436037960,265,login-33-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4471,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,265,0,0
+1699436038226,497,login-36,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6136,1450,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,224,0,0
+1699436038226,224,login-36-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,733,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,224,0,0
+1699436038451,272,login-36-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4477,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,272,0,0
+1699436038724,536,login-35,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6132,1437,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,253,0,0
+1699436038724,253,login-35-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,720,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11,253,0,0
+1699436038978,282,login-35-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4473,717,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,282,0,0
+1699436034654,4672,click My Info,401,"Number of samples in transaction : 13, number of failing samples : 9",jp@gc - Ultimate Thread Group 1-4,,false,,123126,12452,5,5,null,0,7,0
+1699436034654,600,click My Info-39,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6140,1691,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,259,0,0
+1699436034654,259,click My Info-39-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,849,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,259,0,0
+1699436034913,341,click My Info-39-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4481,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,341,0,0
+1699436035253,537,click My Info-42,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6150,1709,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,250,0,0
+1699436035253,251,click My Info-42-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,250,0,0
+1699436035504,286,click My Info-42-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4491,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,286,0,0
+1699436035790,811,click My Info-44,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,101739,751,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,475,0,0
+1699436036602,546,click My Info-45,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6145,1489,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,269,0,0
+1699436036602,269,click My Info-45-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,269,0,0
+1699436036872,276,click My Info-45-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4486,737,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,276,0,0
+1699436037149,287,click My Info-48,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,287,0,0
+1699436037436,225,click My Info-46,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,715,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7,225,0,0
+1699436037662,234,click My Info-49,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,807,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/custom-fields?screen=personal,234,0,0
+1699436037897,232,click My Info-47,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,794,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,232,0,0
+1699436038129,234,click My Info-50,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,823,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/screen/personal/attachments?limit=50&offset=0,234,0,0
+1699436038364,222,click My Info-52,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,222,0,0
+1699436038587,244,click My Info-53,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,244,0,0
+1699436038831,245,click My Info-54,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,713,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,245,0,0
+1699436039076,255,click My Info-55,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,255,0,0
+1699436035691,4458,click My Info,401,"Number of samples in transaction : 13, number of failing samples : 9",jp@gc - Ultimate Thread Group 1-3,,false,,123108,12452,5,5,null,0,7,0
+1699436035691,542,click My Info-39,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6134,1691,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,271,0,0
+1699436035691,271,click My Info-39-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,849,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,271,0,0
+1699436035962,271,click My Info-39-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4475,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,271,0,0
+1699436036234,560,click My Info-42,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6135,1709,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,254,0,0
+1699436036234,254,click My Info-42-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,254,0,0
+1699436036488,306,click My Info-42-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4476,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,306,0,0
+1699436036795,687,click My Info-44,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,101731,751,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,366,0,0
+1699436037482,512,click My Info-45,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6156,1489,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,232,0,0
+1699436037482,232,click My Info-45-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,232,0,0
+1699436037715,279,click My Info-45-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4497,737,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,279,0,0
+1699436037994,234,click My Info-48,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,234,0,0
+1699436038228,225,click My Info-46,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,715,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7,225,0,0
+1699436038453,237,click My Info-49,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,807,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/custom-fields?screen=personal,237,0,0
+1699436038691,246,click My Info-47,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,794,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,246,0,0
+1699436038938,254,click My Info-50,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,823,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/screen/personal/attachments?limit=50&offset=0,254,0,0
+1699436039193,241,click My Info-52,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,241,0,0
+1699436039435,236,click My Info-53,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,728,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,236,0,0
+1699436039671,239,click My Info-54,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,713,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,239,0,0
+1699436039911,245,click My Info-55,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,245,0,0
+1699436039544,765,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-5,,true,,32809,2476,5,5,null,0,2,0
+1699436039545,239,Logout-62,200,OK,jp@gc - Ultimate Thread Group 1-5,,true,,26665,751,5,5,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,239,0,0
+1699436039785,526,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,6144,1725,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,236,0,0
+1699436039785,236,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-5,text,true,,1659,863,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,236,0,0
+1699436040021,290,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,4485,862,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,290,0,0
+1699436040335,275,Save,401,"Number of samples in transaction : 1, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-4,,false,,328,1188,4,4,null,0,0,0
+1699436040335,275,Save-59,401,Unauthorized,jp@gc - Ultimate Thread Group 1-4,text,false,,328,1188,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,275,0,0
+1699436041159,227,Save,401,"Number of samples in transaction : 1, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-3,,false,,328,1188,4,4,null,0,1,0
+1699436041159,227,Save-59,401,Unauthorized,jp@gc - Ultimate Thread Group 1-3,text,false,,328,1188,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,227,0,0
+1699436041611,807,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-4,,true,,32823,2476,4,4,null,0,2,0
+1699436041612,224,Logout-62,200,OK,jp@gc - Ultimate Thread Group 1-4,,true,,26665,751,4,4,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,224,0,0
+1699436041837,583,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,6158,1725,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,240,0,0
+1699436041837,240,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-4,text,true,,1659,863,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,240,0,0
+1699436042077,343,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,4499,862,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,343,0,0
+1699436037945,4561,click My Info,401,"Number of samples in transaction : 13, number of failing samples : 9",jp@gc - Ultimate Thread Group 1-2,,false,,123133,12452,3,3,null,0,5,0
+1699436037946,500,click My Info-39,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6155,1691,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,230,0,0
+1699436037946,230,click My Info-39-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,849,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,230,0,0
+1699436038177,269,click My Info-39-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4496,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,269,0,0
+1699436038446,545,click My Info-42,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6128,1709,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,253,0,0
+1699436038446,253,click My Info-42-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,867,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,253,0,0
+1699436038699,292,click My Info-42-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4469,842,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,292,0,0
+1699436038992,712,click My Info-44,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,101739,751,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,374,0,0
+1699436039704,529,click My Info-45,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6159,1489,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,246,0,0
+1699436039704,246,click My Info-45-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,752,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,246,0,0
+1699436039950,283,click My Info-45-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4500,737,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,283,0,0
+1699436040234,257,click My Info-48,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,728,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,257,0,0
+1699436040491,263,click My Info-46,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,715,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7,263,0,0
+1699436040755,292,click My Info-49,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,807,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/custom-fields?screen=personal,292,0,0
+1699436041047,248,click My Info-47,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,794,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,248,0,0
+1699436041296,225,click My Info-50,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,823,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/screen/personal/attachments?limit=50&offset=0,225,0,0
+1699436041521,241,click My Info-52,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,752,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,241,0,0
+1699436041762,233,click My Info-53,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,728,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,233,0,0
+1699436041995,257,click My Info-54,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,713,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,257,0,0
+1699436042252,259,click My Info-55,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,752,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,259,0,0
+1699436042388,853,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-3,,true,,32823,2476,3,3,null,0,1,0
+1699436042388,235,Logout-62,200,OK,jp@gc - Ultimate Thread Group 1-3,,true,,26665,751,3,3,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,235,0,0
+1699436042624,618,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,6158,1725,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,277,0,0
+1699436042624,277,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-3,text,true,,1659,863,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,277,0,0
+1699436042901,341,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,4499,862,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,341,0,0
+1699436043515,339,Save,401,"Number of samples in transaction : 1, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-2,,false,,328,1188,2,2,null,0,0,0
+1699436043515,339,Save-59,401,Unauthorized,jp@gc - Ultimate Thread Group 1-2,text,false,,328,1188,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,338,0,0
+1699436040265,5016,click My Info,401,"Number of samples in transaction : 13, number of failing samples : 9",jp@gc - Ultimate Thread Group 1-1,,false,,123154,12452,2,2,null,0,6,0
+1699436040265,570,click My Info-39,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6149,1691,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,268,0,0
+1699436040265,268,click My Info-39-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,849,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,268,0,0
+1699436040534,301,click My Info-39-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4490,842,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,301,0,0
+1699436040835,538,click My Info-42,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6156,1709,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,272,0,0
+1699436040835,272,click My Info-42-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,867,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/7,272,0,0
+1699436041107,266,click My Info-42-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4497,842,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,266,0,0
+1699436041374,679,click My Info-44,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,101739,751,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,372,0,0
+1699436042054,582,click My Info-45,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6158,1489,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,302,0,0
+1699436042054,302,click My Info-45-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,752,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,302,0,0
+1699436042357,279,click My Info-45-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4499,737,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,279,0,0
+1699436042636,265,click My Info-48,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,728,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,264,0,0
+1699436042901,341,click My Info-46,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,715,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7,341,0,0
+1699436043243,282,click My Info-49,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,807,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/custom-fields?screen=personal,282,0,0
+1699436043526,327,click My Info-47,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,794,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,327,0,0
+1699436043854,276,click My Info-50,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,823,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/screen/personal/attachments?limit=50&offset=0,276,0,0
+1699436044130,269,click My Info-52,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,752,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,269,0,0
+1699436044399,376,click My Info-53,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,728,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,376,0,0
+1699436044776,285,click My Info-54,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,713,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,285,0,0
+1699436045061,226,click My Info-55,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,752,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2023-01-01&toDate=2023-12-31,226,0,0
+1699436044854,848,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-2,,true,,32794,2476,2,2,null,0,0,0
+1699436044854,253,Logout-62,200,OK,jp@gc - Ultimate Thread Group 1-2,,true,,26665,751,2,2,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,252,0,0
+1699436045107,595,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,6129,1725,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,242,0,0
+1699436045107,242,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-2,text,true,,1659,863,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,242,0,0
+1699436045349,353,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,4470,862,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,353,0,0
+1699436046288,301,Save,401,"Number of samples in transaction : 1, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-1,,false,,328,1188,1,1,null,0,0,0
+1699436046288,301,Save-59,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,328,1188,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/7/personal-details,301,0,0
+1699436047590,771,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,32793,2476,1,1,null,0,1,0
+1699436047591,203,Logout-62,200,OK,jp@gc - Ultimate Thread Group 1-1,,true,,26665,751,1,1,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,202,0,0
+1699436047794,568,Logout-63,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,6128,1725,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,233,0,0
+1699436047794,233,Logout-63-0,302,Found,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,863,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,233,0,0
+1699436048028,334,Logout-63-1,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,4469,862,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,334,0,0

@@ -1,4 +1,4 @@
- pipeline {
+ parallel  Main Thread{
 
      agent any
 		
@@ -27,4 +27,10 @@
         }
 		
 		}
-	}
+	}, Parallel Thread {
+        steps {
+				sleep time: 2500, unit: 'MILLISECONDS'
+                echo 'This is Parallelism'
+			}
+        
+    }
