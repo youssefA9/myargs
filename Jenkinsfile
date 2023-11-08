@@ -1,13 +1,16 @@
  pipeline {
 
      agent any
-		parallel{
+		
 		stages {
 			stage('Clone repo') {
 				steps {
                 git branch: 'main', credentialsId: 'CI_bitbucket_with_password', url: 'https://github.com/youssefA9/myargs.git'
             }
         }
+
+
+
         stage ('Build test Docker') {
             steps {
                 script {
@@ -16,7 +19,7 @@
                      }
             }
         }
-      
+      parallel{
         stage ('Run Jmeter Docker') {
             steps {
 				script{
@@ -25,16 +28,14 @@
 				}
 			}
         }
-        }
 
-        stages {
-            stage ('Parallel') {
-            steps {
-				sleep time: 2500, unit: 'MILLISECONDS'
+stage ('parallel'){
+    steps{
+        sleep time: 2500, unit: 'MILLISECONDS'
                 echo 'This is Parallelism'
-			}
-        }
+    }
+}
 
-        }
+      }
 		}
 	}
