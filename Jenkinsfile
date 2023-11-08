@@ -19,8 +19,8 @@
                      }
             }
         }
-        stage ('splitting'){
-            steps{
+        stages{
+            
       parallel firstBranch:{
         stage ('Run Jmeter Docker') {
             steps {
