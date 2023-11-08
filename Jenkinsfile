@@ -5,7 +5,7 @@
 		stages {
 			stage('Clone repo') {
 				steps {
-                git branch: 'main', credentialsId: 'CI_bitbucket_with_password', url: 'https://github.com/bahaa911/args.git'
+                git branch: 'main', credentialsId: 'CI_bitbucket_with_password', url: 'https://github.com/youssefA9/myargs.git'
             }
         }
         stage ('Build test Docker') {

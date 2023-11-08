@@ -4,8 +4,15 @@ LOG_FILE="log.log"
  
 SCRIPT_NAME=${JMETER_SCRIPT_FILE%%.*}
  
-jmeter -n -t $JMETER_SCRIPT_FILE \
+ls
+
+while true
+do
+    jmeter -n -t $JMETER_SCRIPT_FILE \
 	-l /data/$SMOKE_RESULTS -j /data/$LOG_FILE
+done
+
+
 
 echo "--------------- execution done --------------"
 
