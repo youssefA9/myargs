@@ -28,9 +28,10 @@
 		
 		}
 	}, Parallel Thread {
+        stage('parallelism'){
         steps {
 				sleep time: 2500, unit: 'MILLISECONDS'
                 echo 'This is Parallelism'
 			}
-        
+        }
     }
